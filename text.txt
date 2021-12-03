@@ -1,0 +1,20 @@
+Heirloom Mail version 12.5 7/5/10.  Type ? for help.
+"/var/spool/mail/root": 7 messages
+>   1 incoming@localhost.l  Sun Nov 28 18:32  15/527   "issues"
+    2 incoming@localhost.l  Sun Nov 28 18:33  15/528   "shine"
+    3 incoming@localhost.l  Sun Nov 28 18:37  15/523   "save"
+    4 incoming@locahost.lo  Sun Nov 28 21:19  15/528   "Agent"
+    5 incoming@olaza003     Fri Dec  3 10:03  13/397   "new mail"
+    6 incoming@olaza003     Fri Dec  3 10:07  13/387   "buffer"
+    7 incoming@olaza003     Fri Dec  3 10:07  13/392   "Hello"
+Message  7:
+From incoming@olaza003  Fri Dec  3 10:07:40 2021
+Return-Path: <incoming@olaza003>
+Date: Fri, 3 Dec 2021 10:07:22 -0800
+From: incoming@olaza003
+Subject: Hello
+Status: RO
+
+Spam email
+
+Held 7 messages in /var/spool/mail/root

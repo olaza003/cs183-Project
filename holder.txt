@@ -1,0 +1,6 @@
+ 
+Status: RO
+
+Spam email
+
+Held 7 messages in /var/spool/mail/root
